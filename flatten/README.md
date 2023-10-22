@@ -378,7 +378,7 @@ function flatten(array) {
 [0,[1],2,[3],4,[5],n]
 ```
 
-![testCase1](./2levelsArray.png)
+![testCase1](./images/2levelsArray.png)
 
 
 Сравнение решений на кейсе
@@ -387,7 +387,7 @@ function flatten(array) {
 [0,[1,[2,[3,[4,...[n]]]]]]
 ```
 
-![testCase1](./deepArray.png)
+![testCase1](./images/deepArray.png)
 
 #### Интересные факты
 
